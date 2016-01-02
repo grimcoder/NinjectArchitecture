@@ -1,0 +1,11 @@
+/Users/taraskovtun/Projects/architecture/architecture/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/Ninject.dll
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/Ninject.Extensions.MessageBroker.dll
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/Ninject.Extensions.Interception.dll
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/log4net.dll
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/Ninject.Extensions.Logging.Log4Net.dll
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/Ninject.Extensions.Logging.dll
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/architecture.exe.mdb
+/Users/taraskovtun/Projects/architecture/architecture/bin/Debug/architecture.exe
+/Users/taraskovtun/Projects/architecture/architecture/obj/x86/Debug/architecture.exe
+/Users/taraskovtun/Projects/architecture/architecture/obj/x86/Debug/architecture.exe.mdb

@@ -1,0 +1,5 @@
+﻿<Properties StartupItem="architecture/architecture.csproj" RefactoringSettings.EnableRefactorings="True">
+  <DisabledProjects>
+    <String>../Ninject/src/Ninject/Ninject.csproj</String>
+  </DisabledProjects>
+</Properties>
